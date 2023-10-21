@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    border: 10px red;  
+    border-style: double;
+    padding: 8px;
+    margin: 10px;
+}
+h1{
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    background-color: red;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+ text-transform: capitalize;
+    
+}
+h3{
+    font-family: Arial;
+    font-size: 16px;
+    font-style: italic;
+    text-transform: lowercase;
+    color: white;
+}
+li{
+    color: white;
+}
+footer{
+    color: white;
+}
